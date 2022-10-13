@@ -7,3 +7,14 @@ Projects-
 4. AC control
 If any other idea for project comes up , pls share 
 To be completed by November end.
+
+03/10/2022
+Club Automation
+Minutes
+1. Slab location detection using qr code.
+2. Lights on/off  miniature model using relays.
+Or
+1 sensor inside and 1 sensor outside keeping track of person entering or leaving the room and switch on/off lights accordingly 
+3. Ac on/off controller using servo motor based on off remote. Or
+2 sensors 1 inside and 1 outside to maintain inside temperature based on outside temperature.
+4. Rfid door lock materials released.
