@@ -44,3 +44,11 @@ void loop(){
  }
 
  3. A brief introduction to RPI Microcontroller.
+ 
+ 
+ 22/10/2022
+ Club Automation
+ Minutes:
+  1.Finalized the project.
+  2.Will start doing the basic model from Tuesday(25/10/2022).
+  3.Learn about basics of arduino if you already dont know and also about the mic module.
