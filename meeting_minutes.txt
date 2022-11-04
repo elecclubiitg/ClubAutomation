@@ -1,0 +1,54 @@
+30/08/22
+Club Automation
+Projects-
+1. Lights on(/using voice command)(1-1.5 months)
+2. Door lock system(1.5 month)
+3. Sensor slabs (for components)
+4. AC control
+If any other idea for project comes up , pls share 
+To be completed by November end.
+
+03/10/2022
+Club Automation
+Minutes
+1. Slab location detection using qr code.
+2. Lights on/off  miniature model using relays.
+Or
+1 sensor inside and 1 sensor outside keeping track of person entering or leaving the room and switch on/off lights accordingly 
+3. Ac on/off controller using servo motor based on off remote. Or
+2 sensors 1 inside and 1 outside to maintain inside temperature based on outside temperature.
+4. Rfid door lock materials released.
+
+13/10/2022
+Club Automations
+Minutes
+1. Discussion about the sensor slab project using QR code reader and IR Sensor.
+2. Introductory teaching on how the IR Sensor works. A sample code for the same was discussed.
+
+Sample Code:
+
+int IRSensor = 2;                   // connect IR Sensor to Arduino pin 2
+int LED = 13;                       // conect LED to Arduino pin 13
+void setup() {
+  Serial.begin(9600);  
+  pinMode (IRSensor, INPUT);        // sensor pin INPUT
+  pinMode (LED, OUTPUT);            // Led pin OUTPUT
+}
+void loop(){
+  int statusSensor = digitalRead (IRSensor);
+  if (statusSensor == 1){
+    digitalWrite(LED, LOW);         // LED LOW or LED OFF when nothing is in front of IR Sensor
+  }else{
+    digitalWrite(LED, HIGH);        // LED High or LED ON when an object is brought near the IR Sensor
+  }
+ }
+
+ 3. A brief introduction to RPI Microcontroller.
+ 
+ 
+ 22/10/2022
+ Club Automation
+ Minutes:
+  1.Finalized the project.
+  2.Will start doing the basic model from Tuesday(25/10/2022).
+  3.Learn about basics of arduino if you already dont know and also about the mic module.
