@@ -1,0 +1,4 @@
+Minutes:
+1.finalized the project
+2.start doing the basic model from tuesday
+3.Learn about basics of arduino if you already dont know and also about the mic module
