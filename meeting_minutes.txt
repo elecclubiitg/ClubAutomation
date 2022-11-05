@@ -52,3 +52,12 @@ void loop(){
   1.Finalized the project.
   2.Will start doing the basic model from Tuesday(25/10/2022).
   3.Learn about basics of arduino if you already dont know and also about the mic module.
+
+
+
+04/11/22
+Club Automation project made by Swati and Gourab
+Minutes:
+1.Made a circuit for RFID door lock.
+2.Run the code for scanning the ID card.
+3.Run the code for scanning the RFID door lock.
