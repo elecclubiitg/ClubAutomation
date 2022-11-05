@@ -59,6 +59,6 @@ void loop(){
 Club Automation project made by Swati and Gourab
 Minutes:
 1.Made a circuit for RFID door lock.
-2.Solonoid lock was not working with battery so we use multimeter.
+2.Solonoid lock was not working with battery so we use the lab bench power supply.
 3.Run the code for scanning the ID card.
 4.Run the code for scanning the RFID door lock.
